@@ -15,6 +15,7 @@ hardware (NFC-controller) does support MIFARE Classic
 * Honor 9
 * HTC One
 * Huawei Ascend Mate7
+* Huawei P8
 * Huawei P8 Lite 2017
 * Huawei P9
 * Huawei P10 Lite
